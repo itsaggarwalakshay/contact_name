@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container, .container-fluid, 
+.container-lg, .container-md, 
+.container-sm, .container-xl, 
+.container-xxl {
+  padding-left: 0px !important;
+}
+.fname{
+    font-weight: bold; 
+    text-decoration: none; font-size: 20px;
+  }
+  .contain{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
